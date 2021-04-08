@@ -8,7 +8,7 @@ categories: python
 In the modern world, processors have multiple cores to run different tasks in parallel. Here how to make your Python
 apps utilize more one core to run faster.
 
-Python has a module called `multiprocessing` that help you spawn processes
+Python has a module called `multiprocessing` that help you spawn processes.
 
 {% highlight python %}
 from multiprocessing import Process
