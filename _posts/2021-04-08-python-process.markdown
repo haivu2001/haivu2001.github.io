@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started with multiprocessing in Python"
+title:  "Getting started with multiprocessing in Python."
 date:   2021-04-08 16:17:46 +0700
 categories: python
 ---
