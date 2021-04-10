@@ -23,7 +23,7 @@ github_username:  haivu2001
 markdown: kramdown
 theme: jekyll-theme-architect
 minima:
-  skin: dark
+  skin: minima
 plugins:
 
 # Exclude from processing.
