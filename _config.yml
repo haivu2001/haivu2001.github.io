@@ -21,7 +21,7 @@ github_username:  haivu2001
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 minima:
   skin: dark
 plugins:
