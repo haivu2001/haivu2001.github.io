@@ -5,7 +5,7 @@ date:   2021-04-08 16:17:46 +0700
 categories: python
 ---
 
-In the modern world, processors have multiple cores to run different tasks in parallel. Here how to make your Python
+In the modern world, processors have more than one core and therefore can run different tasks in parallel. Here how to make your Python
 apps utilize more one core to run faster.
 
 Python has a module called `multiprocessing` that help you spawn processes.
