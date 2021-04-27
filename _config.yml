@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Hai's devlog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://haivu2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codeeemonn
 github_username:  haivu2001
 
