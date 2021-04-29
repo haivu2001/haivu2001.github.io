@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is an 'Interface'?"
+title:  "What is an Interface?"
 date:   2021-27-04 16:17:46 +0700
 categories: c++ programming java oop
 ---
